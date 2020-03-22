@@ -1,5 +1,6 @@
 # Suppose you have some alphabets given and you have to keep a record of frequency of it's occurence
 # We can do it using Dictionary in python 
+
 // CODE
 
 count={}
