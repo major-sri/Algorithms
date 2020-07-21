@@ -9,6 +9,7 @@ let input be-:
 n=4 \\in this case number of rows are 4
 s=map(str,input().split())
 s=list(s)
+
 arr=[]
 arr.append(s)
 
